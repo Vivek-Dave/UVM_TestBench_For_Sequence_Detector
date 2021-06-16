@@ -1,0 +1,402 @@
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=1
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 6: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=1 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 16: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 26: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 26: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 36: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 36: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 46: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 46: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 56: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 56: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 66: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 66: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 76: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 76: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 86: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 86: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 96: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 96: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 106: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 106: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 116: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 116: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 126: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 126: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 136: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 136: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 146: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 146: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 156: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 156: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 166: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 166: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 176: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 176: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 186: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 186: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 196: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 196: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 206: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 206: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 216: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 216: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 226: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 226: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 236: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 236: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 246: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 246: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 256: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 256: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 266: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 266: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 276: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 276: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 286: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 286: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 296: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 296: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 306: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 306: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 316: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 316: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 326: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 326: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 336: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 336: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 346: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 346: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 356: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 356: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 366: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 366: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 376: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 376: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 386: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 386: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 396: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 396: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 406: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 406: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 416: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 416: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 426: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 426: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 436: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 436: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 446: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 446: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 456: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 456: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 466: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 466: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 476: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 476: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 486: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 486: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 496: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 496: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 506: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 506: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=1
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 516: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=1 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 526: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 536: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 536: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 546: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 546: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 556: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 556: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 566: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 566: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 576: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 576: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 586: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 586: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 596: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 596: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 606: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 606: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 616: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 616: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 626: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 626: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 636: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 636: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 646: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 646: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 656: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 656: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 666: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 666: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 676: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 676: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 686: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 686: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 696: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 696: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 706: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 706: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 716: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 716: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 726: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 726: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 736: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 736: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 746: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 746: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 756: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 756: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 766: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 766: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 776: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 776: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 786: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 786: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 796: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 796: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 805: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 806: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 806: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 815: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 816: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 816: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 825: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 826: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 826: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 835: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 836: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 836: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 845: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 846: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 846: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 855: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 856: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 856: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 865: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 866: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 866: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 875: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 876: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 876: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 885: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 886: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 886: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 895: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 896: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 896: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 905: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 906: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 906: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 915: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 916: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 916: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 925: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 926: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 926: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 935: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 936: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 936: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 945: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 946: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 946: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 955: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 956: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 956: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 965: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 966: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 966: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 975: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 976: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 976: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 985: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 986: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 986: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 995: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 996: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 996: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=1
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 1005: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=0  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 1006: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 1006: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=0  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(53) @ 1015: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=1  rst=0
+UVM_INFO /home/runner/detect_scoreboard.sv(79) @ 1016: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_scoreboard.sv(95) @ 1016: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ] in=1  rst=0 || out=0
+UVM_INFO /home/runner/detect_coverage.sv(54) @ 1025: uvm_test_top.env_h.coverage_h [detect_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/detect_scoreboard.sv(114) @ 1025: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 98 vectors ran, 98 vectors passed ***
